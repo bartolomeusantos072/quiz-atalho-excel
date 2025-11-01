@@ -1,0 +1,562 @@
+[
+{
+  "question": "Qual atalho é usado para salvar o arquivo atual no Excel?",
+  "answers": [
+    { "option": "Alt + S", "correct": false },
+    { "option": "Ctrl + S", "correct": true },
+    { "option": "Ctrl + Shift + S", "correct": false },
+    { "option": "F2", "correct": false }
+  ],
+  "reforço": "Ctrl + S salva rapidamente o arquivo ativo."
+},
+{
+  "question": "Qual atalho cria uma nova pasta de trabalho no Excel?",
+  "answers": [
+    { "option": "Ctrl + N", "correct": true },
+    { "option": "Alt + N", "correct": false },
+    { "option": "Ctrl + Shift + N", "correct": false },
+    { "option": "F12", "correct": false }
+  ],
+  "reforço": "Ctrl + N cria uma nova planilha em branco."
+},
+{
+  "question": "Qual atalho abre um arquivo existente no Excel?",
+  "answers": [
+    { "option": "Ctrl + O", "correct": true },
+    { "option": "Ctrl + Alt + O", "correct": false },
+    { "option": "Shift + O", "correct": false },
+    { "option": "Alt + F2", "correct": false }
+  ],
+  "reforço": "Ctrl + O abre a janela para selecionar e abrir um arquivo salvo."
+},
+{
+  "question": "Qual atalho desfaz a última ação executada?",
+  "answers": [
+    { "option": "Ctrl + Z", "correct": true },
+    { "option": "Ctrl + Y", "correct": false },
+    { "option": "Alt + Z", "correct": false },
+    { "option": "Shift + Z", "correct": false }
+  ],
+  "reforço": "Ctrl + Z desfaz a última ação realizada no Excel."
+},
+{
+  "question": "Qual atalho refaz uma ação desfeita?",
+  "answers": [
+    { "option": "Ctrl + Y", "correct": true },
+    { "option": "Ctrl + Z", "correct": false },
+    { "option": "Alt + Y", "correct": false },
+    { "option": "Ctrl + Shift + Z", "correct": false }
+  ],
+  "reforço": "Ctrl + Y refaz a última ação que foi desfeita."
+},
+{
+  "question": "Qual atalho copia o conteúdo selecionado?",
+  "answers": [
+    { "option": "Ctrl + C", "correct": true },
+    { "option": "Ctrl + X", "correct": false },
+    { "option": "Alt + C", "correct": false },
+    { "option": "Shift + C", "correct": false }
+  ],
+  "reforço": "Ctrl + C copia o conteúdo para a área de transferência."
+},
+{
+  "question": "Qual atalho recorta o conteúdo selecionado no Excel?",
+  "answers": [
+    { "option": "Ctrl + X", "correct": true },
+    { "option": "Ctrl + C", "correct": false },
+    { "option": "Alt + X", "correct": false },
+    { "option": "Ctrl + Shift + X", "correct": false }
+  ],
+  "reforço": "Ctrl + X recorta o conteúdo, movendo-o para outro local."
+},
+{
+  "question": "Qual atalho cola o conteúdo copiado ou recortado?",
+  "answers": [
+    { "option": "Ctrl + V", "correct": true },
+    { "option": "Alt + V", "correct": false },
+    { "option": "Shift + V", "correct": false },
+    { "option": "Ctrl + P", "correct": false }
+  ],
+  "reforço": "Ctrl + V cola o conteúdo da área de transferência."
+},
+{
+  "question": "Qual atalho seleciona todas as células da planilha ativa?",
+  "answers": [
+    { "option": "Ctrl + A", "correct": true },
+    { "option": "Ctrl + T", "correct": false },
+    { "option": "Alt + A", "correct": false },
+    { "option": "Ctrl + Shift + A", "correct": false }
+  ],
+  "reforço": "Ctrl + A seleciona todo o conteúdo da planilha."
+},
+{
+  "question": "Qual atalho abre a janela de 'Localizar' no Excel?",
+  "answers": [
+    { "option": "Ctrl + F", "correct": true },
+    { "option": "Ctrl + L", "correct": false },
+    { "option": "Alt + F", "correct": false },
+    { "option": "Ctrl + Shift + F", "correct": false }
+  ],
+  "reforço": "Ctrl + F abre a caixa de diálogo 'Localizar'."
+},
+{
+  "question": "Qual atalho abre a janela 'Substituir'?",
+  "answers": [
+    { "option": "Ctrl + H", "correct": true },
+    { "option": "Ctrl + F", "correct": false },
+    { "option": "Alt + H", "correct": false },
+    { "option": "Shift + H", "correct": false }
+  ],
+  "reforço": "Ctrl + H abre a função 'Localizar e Substituir'."
+},
+{
+  "question": "Qual atalho fecha a pasta de trabalho atual?",
+  "answers": [
+    { "option": "Ctrl + W", "correct": true },
+    { "option": "Alt + W", "correct": false },
+    { "option": "Ctrl + F4", "correct": false },
+    { "option": "Ctrl + Shift + W", "correct": false }
+  ],
+  "reforço": "Ctrl + W fecha o arquivo atual sem encerrar o Excel."
+},
+{
+  "question": "Qual atalho fecha o Excel completamente?",
+  "answers": [
+    { "option": "Alt + F4", "correct": true },
+    { "option": "Ctrl + F4", "correct": false },
+    { "option": "Ctrl + Q", "correct": false },
+    { "option": "Alt + Q", "correct": false }
+  ],
+  "reforço": "Alt + F4 encerra o aplicativo Excel."
+},
+{
+  "question": "Qual atalho abre a janela de 'Imprimir'?",
+  "answers": [
+    { "option": "Ctrl + P", "correct": true },
+    { "option": "Alt + P", "correct": false },
+    { "option": "Shift + P", "correct": false },
+    { "option": "Ctrl + Shift + P", "correct": false }
+  ],
+  "reforço": "Ctrl + P abre a tela de impressão."
+},
+{
+  "question": "Qual atalho ativa o modo de edição de célula?",
+  "answers": [
+    { "option": "F2", "correct": true },
+    { "option": "Ctrl + E", "correct": false },
+    { "option": "Alt + F2", "correct": false },
+    { "option": "Shift + F2", "correct": false }
+  ],
+  "reforço": "F2 permite editar diretamente o conteúdo da célula selecionada."
+},
+{
+  "question": "Qual atalho insere a data atual na célula?",
+  "answers": [
+    { "option": "Ctrl + ;", "correct": true },
+    { "option": "Ctrl + :", "correct": false },
+    { "option": "Alt + ;", "correct": false },
+    { "option": "Shift + ;", "correct": false }
+  ],
+  "reforço": "Ctrl + ; insere a data do sistema na célula."
+},
+{
+  "question": "Qual atalho insere a hora atual?",
+  "answers": [
+    { "option": "Ctrl + Shift + ;", "correct": true },
+    { "option": "Ctrl + ;", "correct": false },
+    { "option": "Alt + H", "correct": false },
+    { "option": "Shift + H", "correct": false }
+  ],
+  "reforço": "Ctrl + Shift + ; insere a hora atual."
+},
+{
+  "question": "Qual atalho aplica negrito ao texto?",
+  "answers": [
+    { "option": "Ctrl + B", "correct": true },
+    { "option": "Ctrl + I", "correct": false },
+    { "option": "Ctrl + U", "correct": false },
+    { "option": "Alt + B", "correct": false }
+  ],
+  "reforço": "Ctrl + B aplica ou remove o negrito da seleção."
+},
+{
+  "question": "Qual atalho aplica itálico ao texto?",
+  "answers": [
+    { "option": "Ctrl + I", "correct": true },
+    { "option": "Ctrl + B", "correct": false },
+    { "option": "Ctrl + U", "correct": false },
+    { "option": "Alt + I", "correct": false }
+  ],
+  "reforço": "Ctrl + I alterna o formato itálico no texto."
+},
+{
+  "question": "Qual atalho aplica sublinhado ao texto?",
+  "answers": [
+    { "option": "Ctrl + U", "correct": true },
+    { "option": "Ctrl + B", "correct": false },
+    { "option": "Alt + U", "correct": false },
+    { "option": "Ctrl + Shift + U", "correct": false }
+  ],
+  "reforço": "Ctrl + U adiciona sublinhado ao texto selecionado."
+},
+{
+  "question": "Qual atalho abre a janela de formatação de células?",
+  "answers": [
+    { "option": "Ctrl + 1", "correct": true },
+    { "option": "Ctrl + Shift + 1", "correct": false },
+    { "option": "Alt + 1", "correct": false },
+    { "option": "Ctrl + F1", "correct": false }
+  ],
+  "reforço": "Ctrl + 1 abre a caixa de diálogo 'Formatar Células'."
+},
+{
+  "question": "Qual atalho insere uma nova planilha?",
+  "answers": [
+    { "option": "Shift + F11", "correct": true },
+    { "option": "Ctrl + N", "correct": false },
+    { "option": "Alt + F11", "correct": false },
+    { "option": "Ctrl + Shift + F11", "correct": false }
+  ],
+  "reforço": "Shift + F11 cria uma nova planilha dentro do mesmo arquivo."
+},
+{
+  "question": "Qual atalho alterna entre as planilhas abertas?",
+  "answers": [
+    { "option": "Ctrl + Page Up / Page Down", "correct": true },
+    { "option": "Alt + Tab", "correct": false },
+    { "option": "Ctrl + Tab", "correct": false },
+    { "option": "Shift + F4", "correct": false }
+  ],
+  "reforço": "Ctrl + Page Up/Page Down alterna entre abas de planilhas."
+},
+{
+  "question": "Qual atalho soma automaticamente um intervalo de células?",
+  "answers": [
+    { "option": "Alt + =", "correct": true },
+    { "option": "Ctrl + Shift + +", "correct": false },
+    { "option": "Ctrl + =", "correct": false },
+    { "option": "Alt + +", "correct": false }
+  ],
+  "reforço": "Alt + = insere automaticamente a função SOMA()."
+},
+{
+  "question": "Qual atalho exibe todas as fórmulas na planilha?",
+  "answers": [
+    { "option": "Ctrl + `", "correct": true },
+    { "option": "Ctrl + F3", "correct": false },
+    { "option": "Ctrl + Shift + F", "correct": false },
+    { "option": "Alt + F2", "correct": false }
+  ],
+  "reforço": "Ctrl + ` alterna a exibição entre resultados e fórmulas."
+},
+{
+  "question": "Qual atalho bloqueia uma referência de célula (ex: $A$1)?",
+  "answers": [
+    { "option": "F4", "correct": true },
+    { "option": "Ctrl + F4", "correct": false },
+    { "option": "Alt + F4", "correct": false },
+    { "option": "Shift + F4", "correct": false }
+  ],
+  "reforço": "F4 insere os cifrões para travar referências em fórmulas."
+},
+{
+  "question": "Qual atalho adiciona bordas à seleção?",
+  "answers": [
+    { "option": "Ctrl + Shift + &", "correct": true },
+    { "option": "Ctrl + &", "correct": false },
+    { "option": "Alt + &", "correct": false },
+    { "option": "Ctrl + Shift + B", "correct": false }
+  ],
+  "reforço": "Ctrl + Shift + & adiciona bordas às células selecionadas."
+},
+{
+  "question": "Qual atalho remove as bordas da seleção?",
+  "answers": [
+    { "option": "Ctrl + Shift + _", "correct": true },
+    { "option": "Ctrl + _", "correct": false },
+    { "option": "Alt + _", "correct": false },
+    { "option": "Ctrl + Shift + -", "correct": false }
+  ],
+  "reforço": "Ctrl + Shift + _ remove todas as bordas aplicadas."
+},
+{
+  "question": "Qual atalho abre o menu de contexto (botão direito)?",
+  "answers": [
+    { "option": "Shift + F10", "correct": true },
+    { "option": "Ctrl + F10", "correct": false },
+    { "option": "Alt + F10", "correct": false },
+    { "option": "Ctrl + Shift + F10", "correct": false }
+  ],
+  "reforço": "Shift + F10 abre o menu de contexto das células."
+},
+{
+  "question": "Qual atalho adiciona um comentário à célula selecionada?",
+  "answers": [
+    { "option": "Shift + F2", "correct": true },
+    { "option": "Ctrl + F2", "correct": false },
+    { "option": "Alt + F2", "correct": false },
+    { "option": "Ctrl + Shift + F2", "correct": false }
+  ],
+  "reforço": "Shift + F2 insere ou edita um comentário."
+},
+{
+  "question": "Qual atalho insere uma nova linha?",
+  "answers": [
+    { "option": "Ctrl + Shift + +", "correct": true },
+    { "option": "Ctrl + +", "correct": false },
+    { "option": "Alt + +", "correct": false },
+    { "option": "Shift + +", "correct": false }
+  ],
+  "reforço": "Ctrl + Shift + + insere uma nova linha ou coluna."
+},
+{
+  "question": "Qual atalho exclui uma linha ou coluna selecionada?",
+  "answers": [
+    { "option": "Ctrl + -", "correct": true },
+    { "option": "Ctrl + Delete", "correct": false },
+    { "option": "Alt + -", "correct": false },
+    { "option": "Shift + -", "correct": false }
+  ],
+  "reforço": "Ctrl + - remove a linha ou coluna ativa."
+},
+{
+  "question": "Qual atalho recalcula manualmente todas as fórmulas?",
+  "answers": [
+    { "option": "F9", "correct": true },
+    { "option": "Alt + F9", "correct": false },
+    { "option": "Ctrl + F9", "correct": false },
+    { "option": "Shift + F9", "correct": false }
+  ],
+  "reforço": "F9 força o recálculo das fórmulas."
+},
+{
+  "question": "Qual atalho oculta uma coluna selecionada?",
+  "answers": [
+    { "option": "Ctrl + 0", "correct": true },
+    { "option": "Ctrl + 9", "correct": false },
+    { "option": "Alt + 0", "correct": false },
+    { "option": "Ctrl + Shift + 0", "correct": false }
+  ],
+  "reforço": "Ctrl + 0 oculta a coluna ativa."
+},
+{
+  "question": "Qual atalho oculta uma linha selecionada?",
+  "answers": [
+    { "option": "Ctrl + 9", "correct": true },
+    { "option": "Ctrl + 0", "correct": false },
+    { "option": "Alt + 9", "correct": false },
+    { "option": "Shift + 9", "correct": false }
+  ],
+  "reforço": "Ctrl + 9 oculta a linha ativa."
+},
+{
+  "question": "Qual atalho exibe linhas ocultas?",
+  "answers": [
+    { "option": "Ctrl + Shift + (", "correct": true },
+    { "option": "Ctrl + (", "correct": false },
+    { "option": "Alt + (", "correct": false },
+    { "option": "Shift + (", "correct": false }
+  ],
+  "reforço": "Ctrl + Shift + ( revela as linhas ocultas."
+},
+{
+  "question": "Qual atalho exibe colunas ocultas?",
+  "answers": [
+    { "option": "Ctrl + Shift + )", "correct": true },
+    { "option": "Ctrl + )", "correct": false },
+    { "option": "Alt + )", "correct": false },
+    { "option": "Shift + )", "correct": false }
+  ],
+  "reforço": "Ctrl + Shift + ) revela as colunas ocultas."
+},
+{
+  "question": "Qual atalho abre o gerenciador de nomes de intervalo?",
+  "answers": [
+    { "option": "Ctrl + F3", "correct": true },
+    { "option": "Ctrl + N", "correct": false },
+    { "option": "Alt + F3", "correct": false },
+    { "option": "Shift + F3", "correct": false }
+  ],
+  "reforço": "Ctrl + F3 abre o gerenciador de nomes definidos."
+},
+{
+  "question": "Qual atalho insere uma função rapidamente?",
+  "answers": [
+    { "option": "Shift + F3", "correct": true },
+    { "option": "Ctrl + F3", "correct": false },
+    { "option": "Alt + F3", "correct": false },
+    { "option": "Ctrl + Shift + F3", "correct": false }
+  ],
+  "reforço": "Shift + F3 abre a caixa de inserção de função."
+},
+{
+  "question": "Qual atalho abre o menu Arquivo (backstage)?",
+  "answers": [
+    { "option": "Alt + F", "correct": true },
+    { "option": "Ctrl + F", "correct": false },
+    { "option": "Shift + F", "correct": false },
+    { "option": "Ctrl + Alt + F", "correct": false }
+  ],
+  "reforço": "Alt + F abre o menu de opções do Excel (Arquivo)."
+},
+{
+  "question": "Qual atalho alterna entre janelas do Excel abertas?",
+  "answers": [
+    { "option": "Ctrl + F6", "correct": true },
+    { "option": "Ctrl + Tab", "correct": false },
+    { "option": "Alt + Tab", "correct": false },
+    { "option": "Shift + F6", "correct": false }
+  ],
+  "reforço": "Ctrl + F6 muda entre janelas do Excel ativas."
+},
+{
+  "question": "Qual atalho amplia o zoom da planilha?",
+  "answers": [
+    { "option": "Ctrl + Scroll do mouse para cima", "correct": true },
+    { "option": "Alt + Scroll", "correct": false },
+    { "option": "Ctrl + +", "correct": false },
+    { "option": "Shift + Scroll", "correct": false }
+  ],
+  "reforço": "Ctrl + rolar o mouse para cima aumenta o zoom."
+},
+{
+  "question": "Qual atalho reduz o zoom da planilha?",
+  "answers": [
+    { "option": "Ctrl + Scroll do mouse para baixo", "correct": true },
+    { "option": "Alt + Scroll", "correct": false },
+    { "option": "Ctrl + -", "correct": false },
+    { "option": "Shift + Scroll", "correct": false }
+  ],
+  "reforço": "Ctrl + rolar o mouse para baixo diminui o zoom."
+},
+{
+  "question": "Qual atalho insere um gráfico rapidamente?",
+  "answers": [
+    { "option": "Alt + F1", "correct": true },
+    { "option": "Ctrl + F1", "correct": false },
+    { "option": "Shift + F1", "correct": false },
+    { "option": "Ctrl + Shift + F1", "correct": false }
+  ],
+  "reforço": "Alt + F1 cria um gráfico com base na seleção atual."
+},
+{
+  "question": "Qual atalho abre o painel de ajuda do Excel?",
+  "answers": [
+    { "option": "F1", "correct": true },
+    { "option": "Ctrl + F1", "correct": false },
+    { "option": "Alt + F1", "correct": false },
+    { "option": "Shift + F1", "correct": false }
+  ],
+  "reforço": "F1 abre o painel de ajuda do Excel."
+},
+{
+  "question": "Qual atalho abre o editor do VBA?",
+  "answers": [
+    { "option": "Alt + F11", "correct": true },
+    { "option": "Ctrl + F11", "correct": false },
+    { "option": "Shift + F11", "correct": false },
+    { "option": "Alt + Shift + F11", "correct": false }
+  ],
+  "reforço": "Alt + F11 abre o editor de macros e VBA."
+},
+{
+  "question": "Qual atalho mostra a pré-visualização de impressão?",
+  "answers": [
+    { "option": "Ctrl + F2", "correct": true },
+    { "option": "Alt + F2", "correct": false },
+    { "option": "Shift + F2", "correct": false },
+    { "option": "Ctrl + P", "correct": false }
+  ],
+  "reforço": "Ctrl + F2 exibe a visualização antes da impressão."
+},
+{
+  "question": "Qual atalho preenche automaticamente o conteúdo da célula acima?",
+  "answers": [
+    { "option": "Ctrl + D", "correct": true },
+    { "option": "Ctrl + R", "correct": false },
+    { "option": "Alt + D", "correct": false },
+    { "option": "Shift + D", "correct": false }
+  ],
+  "reforço": "Ctrl + D copia o conteúdo da célula superior."
+},
+{
+  "question": "Qual atalho preenche automaticamente o conteúdo da célula à esquerda?",
+  "answers": [
+    { "option": "Ctrl + R", "correct": true },
+    { "option": "Ctrl + D", "correct": false },
+    { "option": "Alt + R", "correct": false },
+    { "option": "Shift + R", "correct": false }
+  ],
+  "reforço": "Ctrl + R copia o conteúdo da célula à esquerda."
+},
+{
+  "question": "Qual atalho move o cursor para o início da planilha?",
+  "answers": [
+    { "option": "Ctrl + Home", "correct": true },
+    { "option": "Alt + Home", "correct": false },
+    { "option": "Shift + Home", "correct": false },
+    { "option": "Ctrl + End", "correct": false }
+  ],
+  "reforço": "Ctrl + Home leva o cursor para A1."
+},
+{
+  "question": "Qual atalho move o cursor para a última célula usada?",
+  "answers": [
+    { "option": "Ctrl + End", "correct": true },
+    { "option": "Ctrl + Home", "correct": false },
+    { "option": "Alt + End", "correct": false },
+    { "option": "Shift + End", "correct": false }
+  ],
+  "reforço": "Ctrl + End leva o cursor até a última célula com conteúdo."
+},
+{
+  "question": "Qual atalho adiciona ou remove filtros automáticos?",
+  "answers": [
+    { "option": "Ctrl + Shift + L", "correct": true },
+    { "option": "Ctrl + L", "correct": false },
+    { "option": "Alt + L", "correct": false },
+    { "option": "Ctrl + Alt + L", "correct": false }
+  ],
+  "reforço": "Ctrl + Shift + L ativa ou desativa o filtro automático."
+},
+{
+  "question": "Qual atalho insere uma quebra de linha dentro da célula?",
+  "answers": [
+    { "option": "Alt + Enter", "correct": true },
+    { "option": "Ctrl + Enter", "correct": false },
+    { "option": "Shift + Enter", "correct": false },
+    { "option": "Ctrl + Alt + Enter", "correct": false }
+  ],
+  "reforço": "Alt + Enter cria uma nova linha na mesma célula."
+},
+{
+  "question": "Qual atalho abre o recurso 'Ir para'?",
+  "answers": [
+    { "option": "Ctrl + G", "correct": true },
+    { "option": "Ctrl + F", "correct": false },
+    { "option": "Alt + G", "correct": false },
+    { "option": "Ctrl + Shift + G", "correct": false }
+  ],
+  "reforço": "Ctrl + G abre a caixa 'Ir para' (Go To)."
+},
+{
+  "question": "Qual atalho seleciona a linha inteira da célula ativa?",
+  "answers": [
+    { "option": "Shift + Barra de espaço", "correct": true },
+    { "option": "Ctrl + Barra de espaço", "correct": false },
+    { "option": "Alt + Barra de espaço", "correct": false },
+    { "option": "Ctrl + Shift + Espaço", "correct": false }
+  ],
+  "reforço": "Shift + Espaço seleciona toda a linha ativa."
+},
+{
+  "question": "Qual atalho seleciona a coluna inteira da célula ativa?",
+  "answers": [
+    { "option": "Ctrl + Barra de espaço", "correct": true },
+    { "option": "Shift + Barra de espaço", "correct": false },
+    { "option": "Alt + Barra de espaço", "correct": false },
+    { "option": "Ctrl + Shift + Espaço", "correct": false }
+  ],
+  "reforço": "Ctrl + Espaço seleciona toda a coluna ativa."
+}
+]
