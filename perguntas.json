@@ -530,6 +530,116 @@
   "reforço": "Alt + Enter cria uma nova linha na mesma célula."
 },
 {
+    "question": "Qual atalho permite criar uma nova pasta de trabalho no Excel?",
+    "answers": [
+        { "option": "Ctrl + N", "correct": true },
+        { "option": "Ctrl + O", "correct": false },
+        { "option": "Ctrl + Shift + N", "correct": false },
+        { "option": "Alt + N", "correct": false }
+    ],
+    "reforço": "O atalho Ctrl + N cria uma nova pasta de trabalho no Excel."
+},
+{
+    "question": "Qual atalho é usado para abrir um arquivo existente no Excel?",
+    "answers": [
+        { "option": "Ctrl + O", "correct": true },
+        { "option": "Ctrl + L", "correct": false },
+        { "option": "Ctrl + N", "correct": false },
+        { "option": "Alt + O", "correct": false }
+    ],
+    "reforço": "O comando Ctrl + O abre uma planilha existente."
+},
+{
+    "question": "Qual atalho é usado para salvar rapidamente um arquivo no Excel?",
+    "answers": [
+        { "option": "Ctrl + S", "correct": true },
+        { "option": "Alt + S", "correct": false },
+        { "option": "Shift + S", "correct": false },
+        { "option": "Ctrl + Shift + S", "correct": false }
+    ],
+    "reforço": "O atalho Ctrl + S salva o arquivo ativo."
+},
+{
+    "question": "Qual atalho desfaz a última ação executada no Excel?",
+    "answers": [
+        { "option": "Ctrl + Z", "correct": true },
+        { "option": "Ctrl + Y", "correct": false },
+        { "option": "Alt + Z", "correct": false },
+        { "option": "Shift + Z", "correct": false }
+    ],
+    "reforço": "Ctrl + Z desfaz a última ação realizada."
+},
+{
+    "question": "Qual atalho refaz a última ação desfeita no Excel?",
+    "answers": [
+        { "option": "Ctrl + Y", "correct": true },
+        { "option": "Ctrl + Z", "correct": false },
+        { "option": "Alt + Y", "correct": false },
+        { "option": "Ctrl + Shift + Y", "correct": false }
+    ],
+    "reforço": "Ctrl + Y refaz a ação que foi desfeita anteriormente."
+},
+{
+    "question": "Qual atalho permite copiar o conteúdo de uma célula?",
+    "answers": [
+        { "option": "Ctrl + C", "correct": true },
+        { "option": "Ctrl + X", "correct": false },
+        { "option": "Ctrl + V", "correct": false },
+        { "option": "Ctrl + A", "correct": false }
+    ],
+    "reforço": "Ctrl + C copia o conteúdo selecionado."
+},
+{
+    "question": "Qual atalho é usado para recortar o conteúdo selecionado no Excel?",
+    "answers": [
+        { "option": "Ctrl + X", "correct": true },
+        { "option": "Ctrl + C", "correct": false },
+        { "option": "Ctrl + V", "correct": false },
+        { "option": "Alt + X", "correct": false }
+    ],
+    "reforço": "Ctrl + X recorta o conteúdo, movendo-o para a área de transferência."
+},
+{
+    "question": "Qual atalho cola o conteúdo copiado ou recortado no Excel?",
+    "answers": [
+        { "option": "Ctrl + V", "correct": true },
+        { "option": "Ctrl + C", "correct": false },
+        { "option": "Ctrl + X", "correct": false },
+        { "option": "Alt + V", "correct": false }
+    ],
+    "reforço": "Ctrl + V cola o conteúdo da área de transferência."
+},
+{
+    "question": "Qual atalho abre a janela 'Localizar' no Excel?",
+    "answers": [
+        { "option": "Ctrl + F", "correct": true },
+        { "option": "Ctrl + L", "correct": false },
+        { "option": "Alt + F", "correct": false },
+        { "option": "Shift + F", "correct": false }
+    ],
+    "reforço": "Ctrl + F abre a caixa de diálogo 'Localizar'."
+},
+{
+    "question": "Qual atalho abre a janela 'Substituir' no Excel?",
+    "answers": [
+        { "option": "Ctrl + L", "correct": false },
+        { "option": "Ctrl + H", "correct": true },
+        { "option": "Ctrl + F", "correct": false },
+        { "option": "Alt + H", "correct": false }
+    ],
+    "reforço": "Ctrl + H abre a ferramenta 'Localizar e Substituir'."
+},
+{
+    "question": "Qual atalho seleciona todas as células da planilha ativa?",
+    "answers": [
+        { "option": "Ctrl + A", "correct": true },
+        { "option": "Ctrl + T", "correct": false },
+        { "option": "Alt + A", "correct": false },
+        { "option": "Ctrl + Shift + A", "correct": false }
+    ],
+    "reforço": "Ctrl + A seleciona todas as células da planilha."
+},
+{
   "question": "Qual atalho abre o recurso 'Ir para'?",
   "answers": [
     { "option": "Ctrl + G", "correct": true },
